@@ -1,4 +1,4 @@
-### Hi there 👋
+![](https://i.imgur.com/Zp4Ukvp.jpg)
 
 <!--
 **SocolaDaiCa/SocolaDaiCa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
